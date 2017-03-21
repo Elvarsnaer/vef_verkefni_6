@@ -1,0 +1,14 @@
+'<!-- XML -->
+<order>
+    <crust>original</crust>
+    <toppings>
+        <topping>cheese</topping>
+        <topping>pepperoni</topping>
+        <topping>garlic</topping>
+    </toppings>
+    <status>cooking</status>
+    <customer>
+       <name>Brian</name>
+       <phone>573-111-1111</phone>
+    </customer>
+</order>
